@@ -1,0 +1,91 @@
+#header{
+    position: relative;
+    bottom: 4px;
+    left: 13px;
+}
+#h1{
+    position: relative;
+    display: inline-block;
+    background-color: brown;
+    box-sizing: border-box;
+    width: 100px;
+    text-align: center;
+    margin-left: 0;
+    padding: 0;
+    border: 10px solid black;
+}
+
+
+#h2{
+    position: relative;
+    display: inline-block;
+    background-color: rgba(216, 14, 14, 0.582);
+    box-sizing: border-box;
+    width: 1000px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 10px solid black;
+}
+
+#C1{
+vertical-align: middle;
+text-align: center;
+color: white;
+}
+
+#h3{
+    position: relative;
+    display: inline-block;
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    text-align: center;
+    border: 10px solid black;
+}
+
+#c1{
+    position: relative;
+    left: 13px;
+    display: inline-block;
+    background-color: rgba(216, 14, 14, 0.582);
+    box-sizing: border-box;
+    width: 600px;
+    text-align: center;
+    border: 10px solid black;
+    height: 500px;
+}
+
+
+#c2{
+    position: relative;
+    left: 13px;
+    display: inline-block;
+    background-color: rgba(216, 14, 14, 0.582);
+    box-sizing: border-box;
+    width: 600px;
+    text-align: center;
+    border: 10px solid black;
+    margin-left: 25px;
+    height: 500px;
+}
+
+#footer{
+    position: relative;
+    left: 13px;
+    display: inline-block;
+    background-color: rgba(216, 14, 14, 0.582);
+    box-sizing: border-box;
+    width: 1230px;
+    text-align: center;
+    border: 10px solid black;
+    margin-top: 5px;
+    height: 200px;
+}
+
+/* Give blue background to all body */
+body {
+    background-color: #00bfff;
+}
+/* End of css */
